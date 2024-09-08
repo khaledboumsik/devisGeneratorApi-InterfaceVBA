@@ -1,0 +1,26 @@
+{
+    "Number":0,
+    "Client": {
+        "Name": "Khaled",
+        "Adress": "El menzah 7",
+        "Phone": 94644064
+    },
+    "Seller": {
+        "Name":"Shopify Distribution",
+        "Adress": "GP9-Route de la Marsa-Km11-Ain Zaghouan",
+        "MF": "17583323C",
+        "Phone": 52100162
+    },
+    "Products": [
+        {
+            "Name": "Tiges Floral",
+            "Quantity": 40,
+            "PricePerUnit": 32
+        },
+        {
+            "Name": "Accessoires",
+            "Quantity": 1,
+            "PricePerUnit": 400
+        }
+    ]
+}
